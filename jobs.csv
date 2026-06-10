@@ -1,7 +1,7 @@
-Job Title,Skills
-Data Analyst,"Python SQL Excel PowerBI"
-Machine Learning Engineer,"Python Machine Learning TensorFlow"
-Data Scientist,"Python Statistics SQL Machine Learning"
-Backend Developer,"Python Django API SQL"
-Frontend Developer,"HTML CSS JavaScript React"
-AI Engineer,"Python Deep Learning NLP TensorFlow"
+Job Title,Skills,Salary,Description
+Data Analyst,"Python SQL Excel PowerBI","₹4-8 LPA","Analyze business data and create reports."
+Machine Learning Engineer,"Python Machine Learning TensorFlow","₹8-15 LPA","Build and deploy machine learning models."
+Data Scientist,"Python Statistics SQL Machine Learning","₹10-20 LPA","Extract insights from large datasets."
+Backend Developer,"Python Django API SQL","₹6-12 LPA","Develop server-side applications and APIs."
+Frontend Developer,"HTML CSS JavaScript React","₹5-10 LPA","Build interactive web interfaces."
+AI Engineer,"Python Deep Learning NLP TensorFlow","₹12-25 LPA","Develop AI and deep learning systems."
